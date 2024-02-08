@@ -2,7 +2,7 @@
 """
 Created on Sun May 22 21:39:14 2022
 
-@author: dalda
+@author: 
 """
 
 import os
